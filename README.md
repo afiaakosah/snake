@@ -1,4 +1,4 @@
-CSCI 0300 Project 1 - Snake
+Snake
 ===========================
 
 ## Design Overview:
@@ -35,35 +35,3 @@ Next to play, run:
 
 ## Collaborators: 
 ayeung9, earth mokkamakkul
-
-## Responsible Computing:
-Partner CS login: ayeung9
-
-## SRC Questions
-
-1. Who founded the Consortium? Who is represented among the current members, and how might that affect decisions being made for Unicode?
-The founders are Joe Becker, Lee Collins, and Mark Davis. The majority of current members are US-based coporations, such as Yahoo, Xerox Corporation, and Reuters. This may mean that the decisions being made for Unicode will probably be made with a profit-motive that benefits these companies. It also means their descisions will be American-centric. 
-
-2. Find a language that is not yet in Unicode, has only recently been supported (e.g., in the last 10 years), or is/was missing important characters. What is/was missing, and how does this affect the users of the language?
-The Akan language of the Ashanti people of Ghana is not represented by unicode. This means that for example to represent some characters in the languages, users must use numbers -- especailly 3 -- or anglacize the words. It also means that it is easier to communicate in english or pidgin english than in their native language, putting it at risk of erosion or complete extinction. 
-
-3.
-
-I have chosen to outline the position for Han Unification.
-
-Even though the Chinese, Japanese, and Korean languages' linguistic and cultural differences are significant and important in the unification of Han letters presents a stepping stone in the complete representation of these languages. This enables most users to input and display CJK characters and the writing system simplifies communication between various platforms and apps. So, more users are included under the unification of Han letters than without it. 
-
-b) 
-- We discussed the benefits and drawbacks of Han Unification as well as the trade-off Unicode made in reaching this conclusion. We agreed that there are advantages and disadvantages to combining the Chinese, Japanese, and Korean languages in Unicode. 
-- The ability to input and display CJK characters without respect to a user's language or writing system simplifies communication between various platforms and apps. 
-- It also promotes peace and cross-cultural understanding among the three languages. 
-- However, Han Unification leaves more room for misinterpretation in visually representing the three respective languages. Moreover, this change has the potential to eradicate and erase historical/cultural significance of the languages. 
-- We agreed that while efficiency definitely plays a huge factor, it should not come at the expense of accuracy, especially when the issue of cultural sensitivity is involved.
-
-## Extra Credit attempted: 
-n/a
-
-## How long did it take to complete Snake?
-37 hours. 
-
-<!-- Enter an approximate number of hours that you spent actively working on the project. -->
